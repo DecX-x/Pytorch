@@ -1,4 +1,3 @@
-Here is a draft GitHub repo description about Pyrotch:
 
 # Pyrotch
 
